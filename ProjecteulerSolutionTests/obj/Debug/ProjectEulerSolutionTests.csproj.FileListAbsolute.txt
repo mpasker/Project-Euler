@@ -1,0 +1,11 @@
+C:\Users\mpasker\Documents\Work\ProjectEulerSolution\ProjecteulerSolutionTests\bin\Debug\ProjectEulerSolutionTests.dll
+C:\Users\mpasker\Documents\Work\ProjectEulerSolution\ProjecteulerSolutionTests\bin\Debug\ProjectEulerSolutionTests.pdb
+C:\Users\mpasker\Documents\Work\ProjectEulerSolution\ProjecteulerSolutionTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mpasker\Documents\Work\ProjectEulerSolution\ProjecteulerSolutionTests\bin\Debug\nunit.framework.dll
+C:\Users\mpasker\Documents\Work\ProjectEulerSolution\ProjecteulerSolutionTests\bin\Debug\ProjectEulerSolution.exe
+C:\Users\mpasker\Documents\Work\ProjectEulerSolution\ProjecteulerSolutionTests\bin\Debug\ProjectEulerSolution.pdb
+C:\Users\mpasker\Documents\Work\ProjectEulerSolution\ProjecteulerSolutionTests\bin\Debug\nunit.framework.xml
+C:\Users\mpasker\Documents\Work\ProjectEulerSolution\ProjecteulerSolutionTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\mpasker\Documents\Work\ProjectEulerSolution\ProjecteulerSolutionTests\obj\Debug\ProjectEulerSolutionTests.csprojResolveAssemblyReference.cache
+C:\Users\mpasker\Documents\Work\ProjectEulerSolution\ProjecteulerSolutionTests\obj\Debug\ProjectEulerSolutionTests.dll
+C:\Users\mpasker\Documents\Work\ProjectEulerSolution\ProjecteulerSolutionTests\obj\Debug\ProjectEulerSolutionTests.pdb
