@@ -10,7 +10,7 @@ namespace ProjectEulerSolution
     {
         internal bool IsEven(int number)
         {
-            return false;
+            return number % 2 == 0;
         }
     }
 }

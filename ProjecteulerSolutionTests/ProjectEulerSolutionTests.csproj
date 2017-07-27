@@ -55,6 +55,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Any.cs" />
+    <Compile Include="FibonacciEnumerator_should.cs" />
     <Compile Include="Problem001_should_.cs" />
     <Compile Include="Problem002_should_.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

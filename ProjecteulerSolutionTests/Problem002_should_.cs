@@ -14,7 +14,22 @@ namespace ProjectEulerSolutionTests
         public void determine_if_number_is_even()
         {
             var instance = new Problem002();
-            var number = 
+            var number = Any.NumberDivisibleByTwo();
+
+            var isNumberEven = instance.IsEven(number);
+
+            Assert.IsTrue(isNumberEven);
+        }
+
+        [Test]
+        public void determine_if_number_is_not_even()
+        {
+            var instance = new Problem002();
+            var number = Any.NumberDivisibleByTwo() + 1;
+
+            var isNumberEven = instance.IsEven(number);
+
+            Assert.IsFalse(isNumberEven);
         }
     }
 }

@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FibonacciEnumerable.cs" />
     <Compile Include="Problem001.cs" />
     <Compile Include="Problem002.cs" />
     <Compile Include="Program.cs" />
