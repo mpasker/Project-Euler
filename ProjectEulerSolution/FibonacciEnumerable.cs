@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectEulerSolution
 {
-    class FibonacciEnumerable
+    internal class FibonacciEnumerable
     {
         internal IEnumerable<int> GetEnumerable()
         {
