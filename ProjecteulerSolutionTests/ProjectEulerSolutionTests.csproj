@@ -58,6 +58,9 @@
     <Compile Include="FibonacciEnumerator_should.cs" />
     <Compile Include="Problem001_should_.cs" />
     <Compile Include="Problem002_should_.cs" />
+    <Compile Include="Problem003_should_.cs" />
+    <Compile Include="Problem004_should_.cs" />
+    <Compile Include="Problem005_should_.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
